@@ -16,12 +16,18 @@
 
 [Gradle In Action(Gradle实战)中文版](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/)
 
-## 控件
+## 开发心得
+
 [Android ProgressBar详解以及自定义]
 (http://blog.csdn.net/wangjinyu501/article/details/25963993)
 
 [WebView小结](http://www.jianshu.com/p/897d9e3bc783)
 
+[Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
+
+[Android开发：Translucent System Bar 的最佳实践](http://www.jianshu.com/p/0acc12c29c1b)
+
+[Android开发：最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 
 
 ##性能
