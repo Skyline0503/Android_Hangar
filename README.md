@@ -29,6 +29,11 @@
 
 [Android开发：最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 
+## 模式
+
+### MVP
+[如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
+
 
 ##性能
 [Android性能优化典范](http://hukai.me/android-performance-patterns/)
