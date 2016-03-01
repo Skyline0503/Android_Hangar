@@ -52,6 +52,10 @@
 
 [使用 Dagger 2，Mockito 和 自定义 JUnit 规则执行 Android 测试](http://www.jianshu.com/p/283e4a4eda87)
 
+[世界级的Android测试开发流程（一）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-1/)
+
+[世界级的Android测试开发流程（二）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-2/)
+
 ##经验
 
 [Effective OkHttp](https://github.com/xitu/gold-miner/blob/master/TODO/effective-okhttp.md)
