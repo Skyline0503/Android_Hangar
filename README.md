@@ -1,5 +1,8 @@
 # Android-格纳库
 
+## Android Studio
+[Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
+
 ## Rxjava
 [可能是东半球最全的RxJava使用场景小结]
 (http://blog.csdn.net/theone10211024/article/details/50435325)
