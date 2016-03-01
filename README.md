@@ -19,7 +19,11 @@
 
 [Gradle In Action(Gradle实战)中文版](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/)
 
-## 开发心得
+## Animation
+
+[如何学习 Android Animation](https://segmentfault.com/a/1190000004354609)
+
+## View
 
 [Android ProgressBar详解以及自定义]
 (http://blog.csdn.net/wangjinyu501/article/details/25963993)
