@@ -54,6 +54,8 @@
 [Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
 
 [Android性能分析工具整理汇总](http://www.jianshu.com/p/8b77d394b2a6)
+
+[Android 性能模式 第一季(中文V2)](http://chinagdg.org/google-videos/?vid=XMTQ5ODk1Njk4NA==&plid=26876905)
 ## 测试
 [Android单元测试框架Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
 
