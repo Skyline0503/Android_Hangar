@@ -72,3 +72,5 @@
 [Effective OkHttp](https://github.com/xitu/gold-miner/blob/master/TODO/effective-okhttp.md)
 
 [Android编码规范](http://laobie.github.io/android/2015/11/02/code-style-guideline-for-android.html)
+
+[30条Android开发建议](http://wingjay.com/2016/03/15/30%E6%9D%A1Android%E5%BC%80%E5%8F%91%E5%BB%BA%E8%AE%AE/)
