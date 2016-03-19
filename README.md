@@ -38,6 +38,7 @@
 
 [Android开发：最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 
+[从源码角度剖析Fragment核心知识点](http://www.jianshu.com/p/180d2cc0feb5)
 ## 模式
 
 ### MVP
