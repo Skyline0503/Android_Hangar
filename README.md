@@ -40,6 +40,8 @@
 
 [从源码角度剖析Fragment核心知识点](http://www.jianshu.com/p/180d2cc0feb5)
 ## 模式
+### clean
+[使用Clean Architecture模式开发Android应用的详细教程](http://www.infoq.com/cn/articles/clean-architecture-model-to-develop-android-application)
 
 ### MVP
 [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
