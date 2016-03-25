@@ -10,6 +10,10 @@
 [RxJava Essentials 中文翻译版]
 (http://rxjava.yuxingxin.com/)
 
+[从案例学RxAndroid开发（上）](http://chuansong.me/n/2748780)
+
+[RxJava 和 Retrofit 结合使用的几个最常见使用方式举例](https://github.com/rengwuxian/RxJavaSamples)
+
 [Android中调试RxJava](http://www.devtf.cn/?p=1252)
 
 ## Kotlin
