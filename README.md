@@ -81,7 +81,9 @@
 [Effective OkHttp](https://github.com/xitu/gold-miner/blob/master/TODO/effective-okhttp.md)
 
 [dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
+
 [dagger2让你爱不释手-重点概念讲解、融合篇](http://www.jianshu.com/p/1d42d2e6f4a5)
+
 [dagger2让你爱不释手-终结篇](http://www.jianshu.com/p/65737ac39c44)
 
 ##经验
