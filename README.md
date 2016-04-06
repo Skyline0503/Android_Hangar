@@ -86,6 +86,10 @@
 
 [dagger2让你爱不释手-终结篇](http://www.jianshu.com/p/65737ac39c44)
 
+[Glide 深入研究](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+
+[你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
+
 ##经验
 [Android编码规范](http://laobie.github.io/android/2015/11/02/code-style-guideline-for-android.html)
 
