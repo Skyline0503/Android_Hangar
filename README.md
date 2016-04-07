@@ -16,6 +16,8 @@
 
 [Android中调试RxJava](http://www.devtf.cn/?p=1252)
 
+[Airbnb：我们的安卓客户端是如何使用 RxJava 的](https://realm.io/cn/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
+
 ## Kotlin
 [Kotlin资料收集]
 (http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401833091&idx=1&sn=9685218eeac4abfbafdfacd81950bfa1#rd)
