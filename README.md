@@ -76,6 +76,8 @@
 
 [世界级的Android测试开发流程（二）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-2/)
 
+[Android单元测试: 首先，从是什么开始](http://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html)
+
 ## 类库
 
 [依赖注入库 Dagger2 的使用方法](http://www.wangchenlong.org/2016/03/16/use-dagger-first/)
