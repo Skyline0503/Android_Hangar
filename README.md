@@ -74,6 +74,8 @@
 ## 测试
 [Android单元测试框架Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
 
+[解读Android官方MVP项目单元测试](http://www.jianshu.com/p/cf446be43ae8)
+
 [使用 Dagger 2，Mockito 和 自定义 JUnit 规则执行 Android 测试](http://www.jianshu.com/p/283e4a4eda87)
 
 [世界级的Android测试开发流程（一）](http://blog.zhaiyifan.cn/2016/02/23/world-class-testing-development-pipeline-for-android-part-1/)
