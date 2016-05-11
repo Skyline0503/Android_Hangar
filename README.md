@@ -71,6 +71,8 @@
 [值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881)
 
 [Android 性能模式 第一季(中文V2)](http://chinagdg.org/google-videos/?vid=XMTQ5ODk1Njk4NA==&plid=26876905)
+
+[BitMask 使用参考](http://www.jianshu.com/p/694979e1c252)
 ## 测试
 [Android单元测试框架Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
 
