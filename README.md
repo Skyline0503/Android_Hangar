@@ -106,3 +106,13 @@
 [Android编码规范](http://laobie.github.io/android/2015/11/02/code-style-guideline-for-android.html)
 
 [30条Android开发建议](http://wingjay.com/2016/03/15/30%E6%9D%A1Android%E5%BC%80%E5%8F%91%E5%BB%BA%E8%AE%AE/)
+
+[从零开始的Android新项目1 - 架构搭建篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
+
+[从零开始的Android新项目2 - Gradle篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p2/)
+
+[从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
+
+[从零开始的Android新项目4 - Dagger2篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
+
+[从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)
