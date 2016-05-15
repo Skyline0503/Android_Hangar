@@ -116,3 +116,7 @@
 [从零开始的Android新项目4 - Dagger2篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
 
 [从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)
+
+[完美的安卓 model 层架构（上）](http://blog.piasy.com/2016/05/06/Perfect-Android-Model-Layer/)
+
+[完美的安卓 model 层架构（下）](http://blog.piasy.com/2016/05/12/Perfect-Android-Model-Layer-2/)
