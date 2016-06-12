@@ -2,6 +2,7 @@
 
 ## Android Studio
 [Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
+[Android Studio自定义模板 写页面竟然可以如此轻松](http://blog.csdn.net/lmj623565791/article/details/51635533#rd)
 
 ## Rxjava
 [可能是东半球最全的RxJava使用场景小结]
