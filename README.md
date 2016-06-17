@@ -57,7 +57,7 @@
 
 [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
 
-
+[如何构建Android MVVM应用程序](http://www.jianshu.com/p/2fc41a310f79)
 
 ##性能
 [Android性能优化典范](http://hukai.me/android-performance-patterns/)
