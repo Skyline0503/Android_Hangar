@@ -104,6 +104,8 @@
 
 [你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
 
+[RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
+
 ##经验
 [Android编码规范](http://laobie.github.io/android/2015/11/02/code-style-guideline-for-android.html)
 
