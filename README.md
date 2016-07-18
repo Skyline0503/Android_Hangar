@@ -35,6 +35,8 @@
 
 ## View
 
+[Android View的绘制流程](http://www.jianshu.com/p/5a71014e7b1b)
+
 [Android ProgressBar详解以及自定义]
 (http://blog.csdn.net/wangjinyu501/article/details/25963993)
 
