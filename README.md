@@ -130,3 +130,5 @@
 [完美的安卓 model 层架构（上）](http://blog.piasy.com/2016/05/06/Perfect-Android-Model-Layer/)
 
 [完美的安卓 model 层架构（下）](http://blog.piasy.com/2016/05/12/Perfect-Android-Model-Layer-2/)
+
+[Google I/O 2016 笔记之图像压缩](http://hlong.xyz/2016/07/11/Google%20IO%202016%20%E7%AC%94%E8%AE%B0%E4%B9%8B%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/)
