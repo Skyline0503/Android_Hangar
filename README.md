@@ -20,6 +20,8 @@
 
 [Airbnb：我们的安卓客户端是如何使用 RxJava 的](https://realm.io/cn/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
 
+[Android开发技术周报特刊之RxJava&RxAndroid Issue#1](http://www.androidweekly.cn/android-dev-special-weekly-rxjava-rxandroid-issue-1/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ##插件化
 
 [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
