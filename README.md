@@ -40,6 +40,7 @@
 [如何学习 Android Animation](https://segmentfault.com/a/1190000004354609)
 
 ## View
+[安卓自定义View教程](http://www.gcssloop.com/customview/CustomViewIndex)
 
 [Android View的绘制流程](http://www.jianshu.com/p/5a71014e7b1b)
 
