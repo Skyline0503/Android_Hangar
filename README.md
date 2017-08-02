@@ -22,9 +22,13 @@
 
 [Android开发技术周报特刊之RxJava&RxAndroid Issue#1](http://www.androidweekly.cn/android-dev-special-weekly-rxjava-rxandroid-issue-1/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-##插件化
+[RxJava2 源码分析](https://blog.codeest.moe/2017/03/25/android-rxjava2/)
+
+##插件化与组件化
 
 [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+
+[Android 组件化探索与思考](http://wuxiaolong.me/2017/08/01/ModularExploree/)
 
 ## Kotlin
 [Kotlin资料收集]
